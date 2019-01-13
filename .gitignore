@@ -1,0 +1,6 @@
+/.*/
+!/.vscode/
+
+/*.code-workspace
+/*.iml
+/**/.DS_Store
