@@ -2,50 +2,69 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Cédric Belin - Web developer</title>
+    <meta http-equiv="refresh" content="5; URL=https://belin.io">
+    <base href="/">
 
-    <meta http-equiv="refresh" content="0; URL=https://belin.io">
+    <title>Cédric Belin | Full Stack developer</title>
+
+    <meta name="application-name" content="Cédric Belin">
+    <meta name="author" content="Cédric Belin - cedric@belin.io">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="referrer" content="same-origin">
     <meta name="theme-color" content="white">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, shrink-to-fit=no, user-scalable=no, width=device-width">
 
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">
     <link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48" type="image/x-icon">
     <link rel="icon" href="favicon.png" sizes="192x192" type="image/png">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700">
 
     <style>
       body {
         background-color: #dbd8d3;
-        color: black;
-        font-family: Roboto, sans-serif;
+        color: #555;
+        font-family: Roboto, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
         font-size: 15px;
         margin: 0;
-        text-align: center;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
       }
 
       img {
+        border: 1px solid white;
         border-radius: 50%;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
-        margin-bottom: 8px;
+        margin-bottom: 0.5rem;
       }
 
       main {
-        color: #757575;
-        font-size: 20px;
+        font-size: 1.3rem;
         font-weight: 300;
         margin-top: 45vh;
+        text-align: center;
         transform: translateY(-50%);
+      }
+
+      strong {
+        font-weight: 700;
       }
     </style>
 
     <script>
-      location.assign('https://belin.io');
+      setTimeout(() => location.assign('https://belin.io'), 5000);
     </script>
   </head>
 
   <body>
     <main>
-      <img alt="Cédric Belin" src="favicon.png"><br>
-      Cédric Belin, Web developer
+      <a href="https://belin.io">
+        <img alt="Cédric Belin" src="img/cedric_belin.png"><br>
+        <strong>Cédric Belin</strong><br>
+        <small>Full Stack Developer</small>
+      </a>
     </main>
   </body>
 </html>
