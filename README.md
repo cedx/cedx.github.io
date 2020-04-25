@@ -3,8 +3,10 @@ Yet another senior Full Stack developer, addicted to [JavaScript](https://develo
 
 ![Cédric Belin](img/logo.png)
 
-## Social networks
+## Website
+URL: https://belin.io
 
-- [GitHub](https://github.com/cedx)
-- [Twitter](https://twitter.com/cedxbelin)
-- [LinkedIn](https://linkedin.com/in/cedxbelin)
+## Social networks
+GitHub: https://github.com/cedx  
+Twitter: https://twitter.com/cedxbelin  
+LinkedIn: https://linkedin.com/in/cedxbelin
