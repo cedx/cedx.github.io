@@ -1,5 +1,6 @@
 # Cédric Belin
-Yet another senior Full Stack developer, addicted to [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [PHP](https://www.php.net) and [TypeScript](https://www.typescriptlang.org).
+Yet another senior Full Stack developer, addicted to [Haxe](https://haxe.org),
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [PHP](https://www.php.net).
 
 ![Cédric Belin](img/logo.png)
 
