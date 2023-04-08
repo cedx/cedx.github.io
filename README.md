@@ -1,6 +1,6 @@
 # Cédric Belin
 Yet another full stack developer,
-addicted to [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) and [PHP](https://www.php.net).
+addicted to [Haxe](https://haxe.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) and [PHP](https://www.php.net).
 
 ![Cédric Belin](img/logo.png)
 
