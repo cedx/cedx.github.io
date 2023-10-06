@@ -10,5 +10,4 @@ URL: https://belin.io
 ## Social networks
 GitHub: https://github.com/cedx  
 LinkedIn: https://linkedin.com/in/cedxbelin  
-Mastodon: https://mastodon.social/@cedx  
-Twitter: https://twitter.com/cedxbelin  
+Mastodon: https://mastodon.social/@cedx
